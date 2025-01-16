@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PaperMod on Genshin</title>
+    <link>//localhost:1313/tags/papermod/</link>
+    <description>Recent content in PaperMod on Genshin</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/tags/papermod/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to Teyvat</title>
+      <link>//localhost:1313/posts/papermod/papermod-installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/papermod/papermod-installation/</guid>
+      <description>Teyvat is the fantastical world of Genshin Impact, consisting of seven elemental nations, each ruled by an Archon and rich in unique cultures, landscapes, and mysteries.</description>
+    </item>
+    <item>
+      <title>Features of the Game</title>
+      <link>//localhost:1313/posts/papermod/papermod-features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/papermod/papermod-features/</guid>
+      <description>Here&amp;rsquo;s the Fuatures of the game</description>
+    </item>
+  </channel>
+</rss>
